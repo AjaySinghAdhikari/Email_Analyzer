@@ -1,4 +1,4 @@
-### Marketing Email Analyzer
+# Marketing Email Analyzer
 
 An AI-powered CLI tool that analyzes marketing emails 
 and provides actionable improvements to increase open rates.
